@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
+
+- 🔭 I’m currently working on projects with .NET Core, learning more about C#. 
+- 🌱 I’m currently learning OOP.
+- 📫 How to reach me: vini.souza00@gmail.com
+- ⚡ Fun fact: I love strong animals 🐶 🐦 🐍 🐒 
 
 <!--
 **viniciusnasc/viniciusnasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
