@@ -5,6 +5,9 @@
 - 📫 How to reach me: vini.souza00@gmail.com
 - ⚡ Fun fact: I love strong animals 🐶 🐦 🐍 🐒 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusnasc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **viniciusnasc/viniciusnasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
