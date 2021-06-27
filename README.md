@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on projects with .NET Core, learning more about C#. 
 - 🌱 I’m currently learning OOP.
 - 📫 How to reach me: vini.souza00@gmail.com
-- ⚡ Fun fact: I love strong animals 🐶 🐦 🐍 🐒 
+- ⚡ Fun fact: I love music and nature.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusnasc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
