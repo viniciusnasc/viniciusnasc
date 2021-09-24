@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently working on projects with .NET Core, learning more about C#. 
+- 🔭 I’m currently improving at Web API development. 
 - 🌱 I’m currently learning OOP.
 - 📫 How to reach me: vini.souza00@gmail.com
 - ⚡ Fun fact: I love music and nature.
