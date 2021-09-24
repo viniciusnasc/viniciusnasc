@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently improving at Web API development. 
-- 🌱 I’m currently learning OOP.
+- 🔭 I’ve been working on personal Web API projects. 
+- 🌱 I’m currently learning ASP .NET MVC.
 - 📫 How to reach me: vini.souza00@gmail.com
 - ⚡ Fun fact: I love music and nature.
 
