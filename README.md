@@ -1,5 +1,16 @@
 ### Hi there 👋 
 
+<pre>
+{  
+   Recruiter you = https://www.linkedin.com/in/;  
+   Company yourCompany = _unitOfWork.CompanyRepository.FirstOrDefault(x => x.Recruiter == you);  
+   JrDeveloper me = https://www.linkedin.com/in/vinicius-nascimento-3682417b/;  
+
+   if (!(yourCompany.JrDevelopers.Any(x => x == me))  
+       yourCompany.JrDevolopers.Add(me);  
+}
+</pre>
+
 - 🔭 I’ve been working on personal Web API projects. 
 - 🌱 I’m currently learning ASP .NET MVC.
 - 📫 How to reach me: vini.souza00@gmail.com
