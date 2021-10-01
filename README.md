@@ -2,9 +2,9 @@
 
 <pre>
 {  
-   Recruiter you = https://www.linkedin.com/in/;  
+   Recruiter you = "https://www.linkedin.com/in/";  
    Company yourCompany = _unitOfWork.CompanyRepository.FirstOrDefault(x => x.Recruiter == you);  
-   JrDeveloper me = https://www.linkedin.com/in/vinicius-nascimento-3682417b/;  
+   JrDeveloper me = "https://www.linkedin.com/in/vinicius-nascimento-3682417b/";  
 
    if (!(yourCompany.JrDevelopers.Any(x => x == me))  
        yourCompany.JrDevolopers.Add(me);  
