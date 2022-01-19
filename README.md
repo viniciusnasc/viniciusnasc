@@ -1,5 +1,6 @@
 ### Hi there 👋 
 
+<!--
 <pre>
 {  
    Recruiter you = "https://www.linkedin.com/in/";  
@@ -10,6 +11,7 @@
        yourCompany.JrDevolopers.Add(me);  
 }
 </pre>
+-->
 
 - 🔭 I’ve been working on personal Web API projects. 
 - 🌱 I’m currently learning ASP .NET MVC.
