@@ -1,6 +1,5 @@
 ### Hi there 👋 
 
-<!--
 <pre>
 {  
    Recruiter you = "https://www.linkedin.com/in/";  
@@ -11,12 +10,26 @@
        yourCompany.JrDevolopers.Add(me);  
 }
 </pre>
--->
 
 - 🔭 I’ve been working on personal Web API projects. 
-- 🌱 I’m currently learning ASP .NET MVC.
+- 🌱 I’m currently learning ASP .NET MVC Core.
 - 📫 How to reach me: vini.souza00@gmail.com
 - ⚡ Fun fact: I love music and nature.
+
+HardSkills: 
+- ASP .NET Web API
+- ASP .NET MVC Core
+- Microservices
+- WindowsForms
+- RabbitMQ
+- ASP .NET Identity
+- Duende Identity Server
+- DDD
+- SQL Server
+- MySQL
+- MongoDB
+- EntityFramework Core
+- EPPlus
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusnasc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
