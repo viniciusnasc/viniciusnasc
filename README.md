@@ -4,7 +4,7 @@
 {  
    Recruiter you = "https://www.linkedin.com/in/";  
    Company yourCompany = _unitOfWork.CompanyRepository.FirstOrDefault(x => x.Recruiter == you);  
-   JrDeveloper me = "https://www.linkedin.com/in/vinicius-nascimento-3682417b/";  
+   PlDeveloper me = "https://www.linkedin.com/in/vinicius-nascimento-3682417b/";  
 
    if (!(yourCompany.PlDevelopers.Any(x => x == me))  
        yourCompany.PlDevolopers.Add(me);  
